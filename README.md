@@ -1,4 +1,4 @@
-<h1># &copy;WarnerBros-Re-Design</h1>
+<h1># WarnerBros-Re-Design</h1>
 This is my Warner Bros Re-designed Website.<br>
 When browsing this website make sure to start from 'loading screen.html'<br>
-Copyright clamr
+&copy;Troy Chipaze.
